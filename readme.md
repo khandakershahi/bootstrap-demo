@@ -9,7 +9,7 @@ This is my demo project using bootstrap following to the video demonestration fr
 ## Technologies
 - HTML
 - CSS
-- Bootstrap 
+- Bootstrap CSS framework 
 
 ## How to Run
 1. Download the project
